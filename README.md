@@ -23,8 +23,9 @@ The **Mahakumbh Certificate Generator** is designed to help organizers of cultur
 
 
 
-                                                               CERTIFICATE
-                ![Vikrant singh_Certificate](https://github.com/user-attachments/assets/38e0f62d-112f-452c-80ac-883d909bb1d0)
+                                                            CERTIFICATE
+               
+            ![Vikrant singh_Certificate](https://github.com/user-attachments/assets/99eef31d-d1b8-4422-b03e-b34b48477906)
 
 
 
